@@ -1,1 +1,1 @@
-# MyInstants-Extension
+[https://sites.google.com/view/myinstantsclient/home]
