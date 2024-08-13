@@ -1,1 +1,1 @@
-[https://sites.google.com/view/myinstantsclient/home]
+https://sites.google.com/view/myinstantsclient/home
